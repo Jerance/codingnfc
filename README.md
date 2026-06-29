@@ -55,4 +55,3 @@ Puis lancer l’application depuis Android Studio.
 
 - L’application utilise une API de vision par ordinateur pour l’analyse des images.
 - La clé d’abonnement Azure est actuellement définie dans le code. Pour un usage professionnel, il est recommandé de la déplacer dans une configuration sécurisée (variables d’environnement ou fichier local non versionné).
-# app-mobile-android-scan
